@@ -31,7 +31,7 @@
 {
     RKlcl_configure_by_name("RestKit*", RKLogLevelDefault);
     RKlcl_configure_by_name("App", RKLogLevelDefault);
-    RKLogInfo(@"RestKit logging initialized...");
+    RKLogInfo(@"RestKit logging initialized ...");
 }
 
 @end
